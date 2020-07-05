@@ -5,3 +5,4 @@ Typing my python program...
 Git Branch
 Git Branch test July 5th 2020
 Edit master file to demo Pull
+I created test2 branch and would like to try merging into master
